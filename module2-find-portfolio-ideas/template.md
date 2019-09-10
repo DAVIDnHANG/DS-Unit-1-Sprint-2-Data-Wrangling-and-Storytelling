@@ -3,13 +3,13 @@
 ## You
 
 What do you care about?
-
+Taxes
 
 What do you know about?
-
+There is an arguement that I want to seek. Does raises taxes make buisness finds loopholes to hide money, or does lowering taxes make buisness pay?
 
 What decisions do you face?
-
+I want to argue that lowering taxes on the rich make buisness pay. It sound so logically to me however there are people who says blah blah blah. Let looks at history for the answer.
 
 ## Seven templates
 
@@ -18,10 +18,10 @@ Training Kit (https://learn.lambdaschool.com/ds/module/recedjanlbpqxic2r) explai
 Can you apply the templates to your topics? 
 
 1. Geographic Variation
-
+Effects evereyone in the USA. If you are a buisness operating in the US, do you want to pay or hide taxes?
 
 2. Trend related to the news
-
+we are entering electiion year? 
 
 3. Who does that?
 
@@ -30,7 +30,7 @@ Can you apply the templates to your topics?
 
 
 5. Valuable to businesses
-
+Yes, will effect all buisness tax strucutre.
 
 6. What's the most popular?
 
@@ -41,7 +41,7 @@ Can you apply the templates to your topics?
 ## Misconceptions
 
 What misconceptions do people have about your topic?
-
+Should we believed that raises taxes on the super rich really make them pay taxes? 
 
 ## Examples
 
@@ -52,7 +52,7 @@ Could you do a new hypothesis, for the same question?
 
 
 Could you do a new question, for the same topic?
-
+Yes, how does it relate to employee who working for these companies. Will they get more income because the company have to pay less taxes?
 
 Could you do a new topic, with the same "style"?
 
